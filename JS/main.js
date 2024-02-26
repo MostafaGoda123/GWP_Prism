@@ -27,10 +27,10 @@ document.getElementById("image1").onmouseover = function () {
    document.getElementById("span1").innerHTML = `Images hover : ${++n1}`
 }
 document.getElementById("image2").onmouseover = function () {
-   document.getElementById("span2").innerHTML = `Images hover : ${++n1}`
+   document.getElementById("span2").innerHTML = `Images hover : ${++n2}`
 }
 document.getElementById("image3").onmouseover = function () {
-   document.getElementById("span3").innerHTML = `Images hover : ${++n1}`
+   document.getElementById("span3").innerHTML = `Images hover : ${++n3}`
 }
 /*----------------------------------*/
 let sendBtn = document.querySelector(".contact button")
